@@ -10,4 +10,4 @@ The initial idea is for us not to sell the tickets through the website, but rath
 
 The site will also offer a summary/dashboard feature that will show detailed information of tickets sold, analysis of costs, margins and profits (e.g. amounts to be paid to promoters, venues, equipment hire, band members etc).
 
-[Home Page Wireframe](./Wireframes/BandTix\ Home.png)
+![Home Page Wireframe](./Wireframes/BandTix\ Home.png)
