@@ -21,6 +21,9 @@ The site will also offer a summary/dashboard feature that will show detailed inf
 ####Register Page####
 ![Register Page Wireframe](./Wireframes/Register\ Page.png)
 
+####Contact Page####
+![Contact Page Wireframe](./Wireframes/Contact\ Page.png)
+
 ##Diagrams##
 
 ####ER Diagram####
