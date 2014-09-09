@@ -12,8 +12,25 @@ The site will also offer a summary/dashboard feature that will show detailed inf
 
 ##Wireframes##
 
+####Home Page####
 ![Home Page Wireframe](./Wireframes/BandTix\ Home.png)
+
+####Overview Page####
+![Overview Page Wireframe](./Wireframes/Overview\ Page.png)
+
+####Register Page####
+![Register Page Wireframe](./Wireframes/Register\ Page.png)
 
 ##Diagrams##
 
-![ER Diagram](./Diagrams/WDA-A2\ ER\ Diagram.pdf)
+####ER Diagram####
+![ER Diagram](./Diagrams/WDA-A2\ ER\ Diagram.png)
+
+####Basic Use Case Diagram####
+![Basic Use Case Diagram](./Diagrams/Basic\ Use\ Case\ Diagram.png)
+
+####Site Map####
+![Site Map](./Diagrams/Site\ Map.png)
+
+####Band Management Use Case Diagram####
+![Band Management Use Case Diagram](./Diagrams/WDA-A2\ Band\ Management\ Use\ Case.png)
